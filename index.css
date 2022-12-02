@@ -19,3 +19,18 @@
   text-align: center;
   padding: 5px;
 }
+@media (min-width: 768px) {
+  .imgs {
+    height: 250px;
+    width: 250px;
+  }
+  .heading {
+    font-family: Roboto;
+    font-size: 35px;
+  }
+  .card {
+    height: 600px;
+    width: 450px;
+    padding: 10px;
+  }
+}
